@@ -1,7 +1,8 @@
-num_1 = int(input())
-num_2 = int(input())
-num_3 = int(input())
-num_4 = int(input())
+numbers = int(input())
+numbers = list(str(nymbers))
+sum = 1;
 
-result = num_1 * num_2 * num_3 * num_4
-print( result )
+for numders in numbers:
+  sum = sum * int(number)
+
+print(sum)
