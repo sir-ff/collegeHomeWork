@@ -1,8 +1,9 @@
 numbers = int(input())
-numbers = list(str(nymbers))
-sum = 1;
+numbers = list(str(numbers))
+sum = 1:
 
-for numders in numbers:
+for numder in numbers:
   sum = sum * int(number)
 
 print(sum)
+
